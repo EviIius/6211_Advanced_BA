@@ -4,6 +4,8 @@ This course is designed for business managers, information professionals, data a
 
 - Data Link: [NY Housing Data](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market?select=NY-House-Dataset.csv )
 
+- Midterm Quizlet: [Link](https://quizlet.com/886183786/dsbambad-6211-midterm-information-spring-2024-flash-cards/?i=27xifl&x=1jqt)
+
 ## Topics and Tentative Schedule (as of 1/4/2024)
 - Note: This schedule is subject to change during the semester. Always refer to the latest class schedule and announcements posted on Canvas.
 - Jan 16 Class overview, Syllabus, Software (Python) Predictive Modeling – A Refresher
